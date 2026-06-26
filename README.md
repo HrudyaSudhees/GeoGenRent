@@ -124,20 +124,6 @@ Open
 
 ---
 
-## Screenshots
-
-Add screenshots here after deployment.
-
-Suggested screenshots:
-
-* Home page
-* Interactive map
-* AI search
-* Property comparison
-* Dashboard
-
----
-
 ## Future Improvements
 
 * Machine learning-based house price prediction
