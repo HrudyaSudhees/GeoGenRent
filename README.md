@@ -124,6 +124,17 @@ Open
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### AI Chatbot
+![AI Chatbot](screenshots/chat-bot.png)
+
+### Property Details
+![Property Details](screenshots/comparison.png)
+
 ## Future Improvements
 
 * Machine learning-based house price prediction
