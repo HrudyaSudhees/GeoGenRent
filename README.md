@@ -133,7 +133,7 @@ Open
 ![AI Chatbot](screenshots/chat-bot.png)
 
 ### Property Details
-![Property Details](screenshots/comparison.png)
+![Property Details](screenshots/Comparison.png)
 
 ## Future Improvements
 
