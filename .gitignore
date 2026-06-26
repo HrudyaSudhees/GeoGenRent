@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+*.db
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Secrets
+.env
+
+# AI memory
+static/ai_query_memory.json
